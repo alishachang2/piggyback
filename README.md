@@ -6,6 +6,9 @@ PiggyBack gives online spending a physical presence. By combining a Chrome exten
 
 Built for MakeCU 2026, Columbia University's hardware hackathon.
 
+**demo**
+https://youtu.be/cQtnAv6WNG0
+
 ## The Problem
 
 Online shopping makes spending feel invisible and frictionless. Targeted advertisements, promotional offers, and one-click checkout make impulse purchases easy.
